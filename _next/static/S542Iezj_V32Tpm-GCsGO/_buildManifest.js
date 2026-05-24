@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/SilverShore-Partners//_next/:path+",
-        "destination": "/SilverShore-Partners/_next/:path+"
+        "source": "/silvershore-website-pages//_next/:path+",
+        "destination": "/silvershore-website-pages/_next/:path+"
       }
     ],
     "fallback": []
