@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /get-started?*
+
+Sitemap: https://www.silvershorepartners.com/sitemap.xml
